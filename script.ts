@@ -1,6 +1,6 @@
 function List(props){
     return (
-       <div>
+       <div className="list-content">
           {props.value}
        </div>
     )
