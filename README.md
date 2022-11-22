@@ -6,7 +6,9 @@ A simple(?) react.js and typescript based programming assignment.
   <li>The npm project is built based on <a href="https://blog.logrocket.com/how-use-typescript-react-tutorial-examples/">this tutorial.</a></li>
   <li>The project is tested on local apache server.</li>
 </ul>
-![image](https://user-images.githubusercontent.com/105454200/203277703-2349f07e-0f72-423c-b864-bd8dabb68a46.png)
+
+![image](https://user-images.githubusercontent.com/105454200/203278428-00ec7d87-53e8-4cd5-9408-681676216678.png)
+
 
 
 # Development Process
